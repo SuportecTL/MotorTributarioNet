@@ -30,7 +30,7 @@ namespace MotorTributarioNet.Flags
         [Description("2 - Operação interestadual")]
         OperacaoInterestadual = 2,
 
-        [Description("3 -Operação com exterior")]
+        [Description("3 - Operação com exterior")]
         OperacaoExterior = 3
     }
 }
